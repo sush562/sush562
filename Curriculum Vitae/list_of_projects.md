@@ -4,9 +4,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 
 ## Capgemini Ltd
 
-1. **[MyMarque](https://play.google.com/store/apps/details?id=com.psa.mym.mycitroen)** (Android)
-
-Client: (Stellantis, France)
+1. **[MyMarque](https://play.google.com/store/apps/details?id=com.psa.mym.mycitroen)** (Android, Client: Stellantis, France)
 
 	This is a global app of the client to assist their customers in interacting effectively with their cars (Brands: Citreon, Peugeot, Opel, DS). The app has numerous features such as indicating fuel/electric levels, trip planner and history, maintenance details and schedule, location of vehicle etc.
 	
@@ -21,9 +19,7 @@ Client: (Stellantis, France)
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/OP_1.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/OP_2.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/OP_3.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/OP_4.png" width="200">
 
 	
-3. **[McDonalds](https://play.google.com/store/apps/details?id=com.mcdonalds.app.uk)** (Android)
-
-Client: McDonald's UK
+3. **[McDonalds](https://play.google.com/store/apps/details?id=com.mcdonalds.app.uk)** (Android, Client: McDonald's UK)
 
 	This is the global app of McDonalds to cater to their customers to place their food orders for delivery. This was a transfer of an existing mobile application from another vendor to us for development and maintenance purposes.
 	
@@ -31,9 +27,7 @@ Client: McDonald's UK
 	
 	I understood more in depth about the various agile processes and learned a great deal in managing the codebase using Git.
 	
-4. **Agill** (Android)
-
-Client: (Cargill, Brazil)
+4. **Agill** (Android, Client: Cargill, Brazil)
 
 	This was an internal client app for its sales team, to create orders and view order history for its customers. This app used SAP Mobile SDK for first time in our organization for performing CRUD operations seamlessly with the backend SAP system.
 	
