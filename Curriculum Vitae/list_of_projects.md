@@ -35,7 +35,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	
 	The app was delivered well on time and helped the client increase their business flow by quickly capturing their customer's orders and processing them on time.
 	
-5. **Wit Gele Kruis** (Belgium)
+5. **WGK** (Android, Client: Wit Gele Kruis Hospital, Belgium)
 
 	This was an internal hospital app of client for their nurses to visit patients at their homes and keep track of medical records. This was a re-factoring project as it involved a completely new re-implementation of the existing app into the native Android format. It was also specific for tablets only.
 	
@@ -43,17 +43,13 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	
 	The app was delivered well before time. I learned a lot about performance improvement flows like multithreading, RxJava etc that did indeed speed up the new refactored app.
 	
-6. **mAssist** (Android)
-
-Client: (Reliance Jio)
+6. **mAssist** (Android, Client: Reliance Jio)
 
 	This was an internal client app for its agents, to assist their customers in their account management, issues and orders. This greatly enhanced the launch process of the product (JIO services) in the Indian market for the client.
 	
 	I was deputed onsite for this. I was responsible to directly connect with stakeholders to understand new features that needed to be developed, interact with backend teams to understand the API formats to consume data in app, and to develop and unit test those features. Also responsible for creating technical documentation pertaining to the app.
 	
-7. **Jio Newspaper** (Android)
-
-Client: (Reliance Jio)
+7. **Jio Newspaper** (Android, Client: Reliance Jio)
 
 	The app was a prototype designed for the customers of the client that enabled them to read newspapers of major publishers on mobile app by downloading those newspapers and displaying them in a readable format.
 	
@@ -62,21 +58,15 @@ Client: (Reliance Jio)
 
 ## Infosys Ltd
 
-1. **[MetroPcs](www.metropcs.com)** (Web)
-
-Client: (T-Mobile, USA)
+1. **[MetroPcs](www.metropcs.com)** (Web, Client: T-Mobile, USA)
 
  	This project involved redesigning a client website in desktop format using web technology and tools like Adobe CQ5 for content design and management. I was involved in re-developing existing web pages using adobe CQ5 and web technologies. I also took part in understanding the requirements of each feature and assessing how much time and effort it will take.	
 
-2. **[T-Mobile](https://www.t-mobile.com/)** (Web)
-
-Client: (T-Mobile, USA)
+2. **[T-Mobile](https://www.t-mobile.com/)** (Web, Client: T-Mobile, USA)
 
 	This project involved redesigning the client website in desktop and mobile formats using web technology and tools like Adobe CQ5 for content design and management. I learned web technologies and programming like HTML, CSS, XML and was involved in the re-developing existing web pages using adobe CQ5 and web technologies. I also took part in understanding the requirements of each feature and assessing how much time and effort it will take.	
 
-3. **Xfinity** (Android)
-
-Client: (Comcast, USA)
+3. **Xfinity** (Android, Client: Comcast, USA)
 
 	This was a CMMI level-5 Android project for US customers which had over 5 million downloads. This App provided major services such as email, messaging, storing voicemails, internet calling, online contacts, groups, favorites, caller-id etc. This was my first mobile project and I was responsible for  the development and issues resolution support of the application.
 
