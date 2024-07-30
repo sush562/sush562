@@ -14,7 +14,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	
 	This was an exhaustive project for me that helped me learn a great deal about processes, architecture, and development flows.
 
-<img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_1.png" width="200">
+<img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_1.png" width="150">
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_2.png" width="200">
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_3.png" width="200">
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_4.png" width="200">
