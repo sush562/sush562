@@ -34,15 +34,25 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/OP_1.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/OP_2.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/OP_3.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/OP_4.png" width="200">
 
 	
-3. **[McDonalds](https://play.google.com/store/apps/details?id=com.mcdonalds.app.uk)** (Android, Client: McDonald's UK)
+2. **[McDonalds](https://play.google.com/store/apps/details?id=com.mcdonalds.app.uk)** (Android, Client: McDonald's UK)
 
-	This is the global app of McDonalds to cater to their customers to place their food orders for delivery. It is used by millions of users daily on a Global basis.  
+	This is the global app of McDonalds to cater to their customers to place their food orders for delivery. It is used by millions of users daily on a Global basis. I was involved with the UK variant of the app as a Mobile lead and senior developer.
 	
-	I was involved with the UK variant of the app. I was responsible for implementing clean architecture and design pattern like MVVM. I was part of new features like Rewards, Cart Management etc. Being part of UK variant, I was also responsible for the implementation of UI/UX and features specific for UK users.
+	My Responsibilities:
+	* Understanding of new feature requirements and guiding  team members in the implementation and delivery.
+	* Providing estimates regarding development and delivery of features
+	* Implementing UK specific UI/UX and configurations
+	* Creating documentation related to the features developed
+	* Ensure agile processes were followed among feature teams
+	* Optimal delivery of tasks and ensuring code quality by reviewing
 	
+	Achievements:
+	* Successful deliveries of several features to UK market
+	* Better defect resolution rate and reduced crash rates
+	* Improved app performance
+	* Implementation of MVVM design pattern across features
 	
-	
-4. **Agill** (Android, Client: Cargill, Brazil)
+3. **Agill** (Android, Client: Cargill, Brazil)
 
 	This was an internal client app for its sales team, to create orders and view order history for its customers. This app used SAP Mobile SDK for first time in our organization for performing CRUD operations seamlessly with the backend SAP system.
 	
@@ -50,7 +60,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	
 	The app was delivered well on time and helped the client increase their business flow by quickly capturing their customer's orders and processing them on time.
 	
-5. **WGK** (Android, Client: Wit Gele Kruis Hospital, Belgium)
+4. **WGK** (Android, Client: Wit Gele Kruis Hospital, Belgium)
 
 	This was an internal hospital app of client for their nurses to visit patients at their homes and keep track of medical records. This was a re-factoring project as it involved a completely new re-implementation of the existing app into the native Android format. It was also specific for tablets only.
 	
@@ -58,13 +68,13 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	
 	The app was delivered well before time. I learned a lot about performance improvement flows like multithreading, RxJava etc that did indeed speed up the new refactored app.
 	
-6. **mAssist** (Android, Client: Reliance Jio)
+5. **mAssist** (Android, Client: Reliance Jio)
 
 	This was an internal client app for its agents, to assist their customers in their account management, issues and orders. This greatly enhanced the launch process of the product (JIO services) in the Indian market for the client.
 	
 	I was deputed onsite for this. I was responsible to directly connect with stakeholders to understand new features that needed to be developed, interact with backend teams to understand the API formats to consume data in app, and to develop and unit test those features. Also responsible for creating technical documentation pertaining to the app.
 	
-7. **Jio Newspaper** (Android, Client: Reliance Jio)
+6. **Jio Newspaper** (Android, Client: Reliance Jio)
 
 	The app was a prototype designed for the customers of the client that enabled them to read newspapers of major publishers on mobile app by downloading those newspapers and displaying them in a readable format.
 	
