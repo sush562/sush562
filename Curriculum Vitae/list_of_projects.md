@@ -12,22 +12,24 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	
 	This was an exhaustive project for me that helped me learn a great deal about processes, architecture, and development flows.
 
-	My Responsibilities:
+	**My Responsibilities:**
 	* Complete understanding of existing features and their flows involving technical grooming meetings with senior architects and stakeholders
 	* Deciding the course of architecture flow to be undertaken for refactoring
 	* Providing estimates for feature refactoring
+ 	* Creation of HLD documents for features 
 	* Leading a team of technical members in the refactoring of these features and giving development assistance
 	* Ensure agile processes were followed among feature teams
 	* Optimal delivery of tasks and ensuring code quality by reviewing
 	* Managing master codebase branch for final deliveries and CI/CD support
 
-	Achievements:
+	**Achievements:**
 	* Increase of app performance by around 30% (faster load time and app responsiveness, battery and memory usage, and smaller build size)
 	* Designed and implemented scalable clean architecture
 	* Spearheaded adaptation of kotlin that led to a decrease in codebase size by up to 25%
 	* Better defect resolution rate and reduced crash rates by up to 20%
 	* Higher test coverage of business and repository layers
 	* Better app delivery rate to CI/CD and subsequently play store
+ 	* Awarded for my contribution to app delivery
 	
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_1.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_2.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_3.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_4.png" width="200"><br>
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_1.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_2.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_3.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_4.png" width="200"><br>
@@ -38,15 +40,15 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 
 	This is the global app of McDonalds to cater to their customers to place their food orders for delivery. It is used by millions of users daily on a Global basis. I was involved with the UK variant of the app as a Mobile lead and senior developer.
 	
-	My Responsibilities:
+	**My Responsibilities:**
 	* Understanding of new feature requirements and guiding  team members in the implementation and delivery.
-	* Providing estimates regarding development and delivery of features
-	* Implementing UK specific UI/UX and configurations
+	* Providing estimates regarding the development and delivery of features
+	* Implementing UK-specific UI/UX and configurations
 	* Creating documentation related to the features developed
 	* Ensure agile processes were followed among feature teams
-	* Optimal delivery of tasks and ensuring code quality by reviewing
+	* Ensuring timely delivery of tasks and code quality by reviewing
 	
-	Achievements:
+	**Achievements:**
 	* Successful deliveries of several features to UK market
 	* Better defect resolution rate and reduced crash rates
 	* Improved app performance
@@ -54,46 +56,88 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	
 3. **Agill** (Android, Client: Cargill, Brazil)
 
-	This was an internal client app for its sales team, to create orders and view order history for its customers. This app used SAP Mobile SDK for first time in our organization for performing CRUD operations seamlessly with the backend SAP system.
-	
-	I was responsible for leading a team of developers, usage of the design pattern and architecture to be followed, understanding the requirements, providing estimates of feature development, guiding the team members on technical aspects, development of features, unit testing flows, and delivery of builds in each iteration.
-	
-	The app was delivered well on time and helped the client increase their business flow by quickly capturing their customer's orders and processing them on time.
-	
-4. **WGK** (Android, Client: Wit Gele Kruis Hospital, Belgium)
+	I was the Senior Mobile Developer for this project. This was an internal client app for its sales team, to create orders and view order history for its customers. This app used SAP Mobile SDK for first time in our organization for performing CRUD operations seamlessly with the backend SAP system.
 
-	This was an internal hospital app of client for their nurses to visit patients at their homes and keep track of medical records. This was a re-factoring project as it involved a completely new re-implementation of the existing app into the native Android format. It was also specific for tablets only.
+	**My Responsibilities:**
+	* Leading Android team for design, development and delivery of app
+	* Deciding upon the design pattern for the app
+	* Providing estimates regarding the development and delivery of features
+	* Ensuring timely delivery of tasks
 	
-	I was responsible for understanding the technical requirements and flow provided to us, provide estimations for each feature following Agile methodology, developing those features, and unit testing all the flows. 
+	**Achievements:**
+	* Successful delivery of app to client and fast deployment which helped in increase in business flow of client as they were able to capture market requirements faster
+ 	* Implemented SAP Mobile SDK in application and created guidance documentation for others to understand
 	
-	The app was delivered well before time. I learned a lot about performance improvement flows like multithreading, RxJava etc that did indeed speed up the new refactored app.
 	
-5. **mAssist** (Android, Client: Reliance Jio)
+5. **WGK** (Android, Client: Wit Gele Kruis Hospital, Belgium)
 
-	This was an internal client app for its agents, to assist their customers in their account management, issues and orders. This greatly enhanced the launch process of the product (JIO services) in the Indian market for the client.
-	
-	I was deputed onsite for this. I was responsible to directly connect with stakeholders to understand new features that needed to be developed, interact with backend teams to understand the API formats to consume data in app, and to develop and unit test those features. Also responsible for creating technical documentation pertaining to the app.
-	
-6. **Jio Newspaper** (Android, Client: Reliance Jio)
+	I was the Senior Mobile Developer for this project. This was an internal hospital app of client for their nurses to visit patients at their homes and keep track of medical records. This was a re-factoring project as it involved a completely new re-implementation of the existing app into the native Android format. It was also specific for tablets only.
 
-	The app was a prototype designed for the customers of the client that enabled them to read newspapers of major publishers on mobile app by downloading those newspapers and displaying them in a readable format.
+	**My Responsibilities:**
+	* Refactoring of entire app from Silverlight to native Android
+	* Understanding the technical requirements and flow
+	* Providing estimates regarding the development and delivery of features
+	* Ensuring timely delivery of tasks
+	
+	**Achievements:**
+	* Entire app was refactored which led to a great increase in performance and manageability of code.
+ 	* Worked on complex data download and ensured proper asynchronous procedures such as multithreading and RxJava
+	
+7. **mAssist** (Android, Client: Reliance Jio)
+
+	I was the Senior Mobile Developer for this project. This was an internal client app for its agents, to assist their customers in their account management, issues and orders. This greatly enhanced the launch process of the product (JIO services) in the Indian market for the client.
+
+	**My Responsibilities:**
+	* Deputation onsite to directly interact with stakeholders of client and backend teams
+	* Understanding the feature requirements and their development
+	* Providing estimates regarding the development and delivery of features
+	* Ensuring timely delivery of tasks
+ 	* Fast and ontime resolution of issues in market 
+	
+	**Achievements:**
+	* Developed several features that aided in the launch process of client service (JIO)
+	* Awarded for my contribution to app delivery
+ 	* Worked directly on production issues and gave best and fast resolutions
+  	* Created technical documentation about the app 
+	
+9. **Jio Newspaper** (Android, Client: Reliance Jio)
+
+	I was the Senior Mobile Developer for this project. The app was a prototype designed for the customers of the client that enabled them to read newspapers of major publishers on mobile app by downloading those newspapers and displaying them in a readable format.
 	
 	I was part of the development team to create the app from scratch. I was responsible for understanding the requirements and implementing the display page of the list of newspapers.
 	
 
 ## Infosys Ltd
 
-1. **[MetroPcs](www.metropcs.com)** (Web, Client: T-Mobile, USA)
+1. **Xfinity** (Android, Client: Comcast, USA)
 
- 	This project involved redesigning a client website in desktop format using web technology and tools like Adobe CQ5 for content design and management. I was involved in re-developing existing web pages using adobe CQ5 and web technologies. I also took part in understanding the requirements of each feature and assessing how much time and effort it will take.	
+	This was my first mobile project and I was the Junior Mobile Developer for this project. This was a CMMI level-5 Android project for US customers which had over 5 million downloads. This App provided major services such as email, messaging, storing voicemails, internet calling, online contacts, groups, favorites, caller-id etc.
 
-2. **[T-Mobile](https://www.t-mobile.com/)** (Web, Client: T-Mobile, USA)
+	**My Responsibilities:**
+	* Development of technical tasks and features and timely deliveries
+ 	* Defect resolutions and support
+	
+	**Achievements:**
+	* Fast learning in native android development
+ 	* My achievements in delivery soon made me the Senior developer of the app
+  	* Awarded for my contribution to app delivery
 
-	This project involved redesigning the client website in desktop and mobile formats using web technology and tools like Adobe CQ5 for content design and management. I learned web technologies and programming like HTML, CSS, XML and was involved in the re-developing existing web pages using adobe CQ5 and web technologies. I also took part in understanding the requirements of each feature and assessing how much time and effort it will take.	
+3. **[MetroPcs](www.metropcs.com)** (Web, Client: T-Mobile, USA)
 
-3. **Xfinity** (Android, Client: Comcast, USA)
+ 	This project involved redesigning a client website in desktop format using web technology and tools like Adobe CQ5 for content design and management. I was involved in re-developing existing web pages using adobe CQ5 and web technologies. I also took part in understanding the requirements of each feature and assessing how much time and effort it will take.
 
-	This was a CMMI level-5 Android project for US customers which had over 5 million downloads. This App provided major services such as email, messaging, storing voicemails, internet calling, online contacts, groups, favorites, caller-id etc. This was my first mobile project and I was responsible for  the development and issues resolution support of the application.
+	**Achievements:**
+	* Developed several features for the new desktop website of the client
+ 	* Helped develop several reusable web components that reduced overall development time 
+
+4. **[T-Mobile](https://www.t-mobile.com/)** (Web, Client: T-Mobile, USA)
+
+	This project involved redesigning the client website in desktop and mobile formats using web technology and tools like Adobe CQ5 for content design and management. I learned web technologies and programming like HTML, CSS, XML and was involved in the re-developing existing web pages using adobe CQ5 and web technologies. I also took part in understanding the requirements of each feature and assessing how much time and effort it will take.
+
+	**Achievements:**
+	* Developed several features for the desktop website of the client
+ 	* Helped develop several reusable web components that reduced overall development time
+
 
 ## Personal
 
