@@ -8,7 +8,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 
 	I was the offshore mobile tech lead for this project. This is a global app of the client to assist their customers in interacting effectively with their cars (Brands: Citreon, Peugeot, Opel, DS). The app has numerous features such as indicating fuel/electric levels, trip planner and history, maintenance details and schedule, location of vehicle etc.
 
-	I was part of a major refactoring project, as we needed to re-implement all existing legacy features using the latest architecture, design patterns, improved test cases, performance enhancements, CI/CD support etc. With my work and guidance to reporting devs, the app performance increased by 20%, decreased the overall bug count, and helped in faster deliveries of features in ongoing sprints.
+	I was part of a major refactoring project, as we needed to re-implement all existing legacy features using the latest architecture, design patterns, improved test cases, performance enhancements, CI/CD support etc.
 	
 	This was an exhaustive project for me that helped me learn a great deal about processes, architecture, and development flows.
 
@@ -20,6 +20,14 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	* Ensure agile processes were followed among feature teams
 	* Optimal delivery of tasks and ensuring code quality by reviewing
 	* Managing master codebase branch for final deliveries and CI/CD support
+
+	Achievements:
+	* Increase of app performance by around 30% (faster load time and app responsiveness, battery and memory usage, and smaller build size)
+	* Designed and implemented scalable clean architecture
+	* Spearheaded adaptation of kotlin that led to a decrease in codebase size by up to 25%
+	* Better defect resolution rate and reduced crash rates by up to 20%
+	* Higher test coverage of business and repository layers
+	* Better app delivery rate to CI/CD and subsequently play store
 	
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_1.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_2.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_3.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_4.png" width="200"><br>
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_1.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_2.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_3.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_4.png" width="200"><br>
