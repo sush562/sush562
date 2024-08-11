@@ -6,14 +6,21 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 
 1. **[MyMarque](https://play.google.com/store/apps/details?id=com.psa.mym.mycitroen)** (Android, Client: Stellantis, France)
 
-	This is a global app of the client to assist their customers in interacting effectively with their cars (Brands: Citreon, Peugeot, Opel, DS). The app has numerous features such as indicating fuel/electric levels, trip planner and history, maintenance details and schedule, location of vehicle etc.
-	
-	I was the offshore mobile tech lead. My task involved a complete understanding of existing features and their flows involving technical grooming meetings with senior architects and stakeholders, deciding the course of architecture flow to be undertaken for refactoring, providing estimates for feature refactoring, leading a team of technical members in the refactoring of these features, development assistance, ensure agile processes are followed, optimal delivery of tasks, ensure code quality by reviewing, managing master codebase branch for final deliveries and CI/CD support.
-	
+	I was the offshore mobile tech lead for this project. This is a global app of the client to assist their customers in interacting effectively with their cars (Brands: Citreon, Peugeot, Opel, DS). The app has numerous features such as indicating fuel/electric levels, trip planner and history, maintenance details and schedule, location of vehicle etc.
+
 	I was part of a major refactoring project, as we needed to re-implement all existing legacy features using the latest architecture, design patterns, improved test cases, performance enhancements, CI/CD support etc. With my work and guidance to reporting devs, the app performance increased by 20%, decreased the overall bug count, and helped in faster deliveries of features in ongoing sprints.
 	
 	This was an exhaustive project for me that helped me learn a great deal about processes, architecture, and development flows.
 
+Responsibilities:
+	* Complete understanding of existing features and their flows involving technical grooming meetings with senior architects and stakeholders
+ 	* Deciding the course of architecture flow to be undertaken for refactoring
+  	* Providing estimates for feature refactoring
+   	* Leading a team of technical members in the refactoring of these features and giving development assistance
+    	* Ensure agile processes were followed among feature teams
+     	* Optimal delivery of tasks and ensuring code quality by reviewing
+      	* Managing master codebase branch for final deliveries and CI/CD support
+	
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_1.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_2.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_3.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_4.png" width="200"><br>
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_1.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_2.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_3.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_4.png" width="200"><br>
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/OP_1.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/OP_2.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/OP_3.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/OP_4.png" width="200">
@@ -21,11 +28,11 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	
 3. **[McDonalds](https://play.google.com/store/apps/details?id=com.mcdonalds.app.uk)** (Android, Client: McDonald's UK)
 
-	This is the global app of McDonalds to cater to their customers to place their food orders for delivery. This was a transfer of an existing mobile application from another vendor to us for development and maintenance purposes.
+	This is the global app of McDonalds to cater to their customers to place their food orders for delivery. It is used by millions of users daily on a Global basis.  
 	
-	I was involved with the UK variant of the app. I was responsible for understanding the current architecture and design pattern, implement new features while resolving issues of existing ones, assist various technical teams, implementing specific UK region features and flavors in the app and till deployment on Play Store.
+	I was involved with the UK variant of the app. I was responsible for implementing clean architecture and design pattern like MVVM. I was part of new features like Rewards, Cart Management etc. Being part of UK variant, I was also responsible for the implementation of UI/UX and features specific for UK users.
 	
-	I understood more in depth about the various agile processes and learned a great deal in managing the codebase using Git.
+	
 	
 4. **Agill** (Android, Client: Cargill, Brazil)
 
