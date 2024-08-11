@@ -12,14 +12,14 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	
 	This was an exhaustive project for me that helped me learn a great deal about processes, architecture, and development flows.
 
-My Responsibilities:
-* Complete understanding of existing features and their flows involving technical grooming meetings with senior architects and stakeholders
-* Deciding the course of architecture flow to be undertaken for refactoring
-* Providing estimates for feature refactoring
-* Leading a team of technical members in the refactoring of these features and giving development assistance
-* Ensure agile processes were followed among feature teams
-* Optimal delivery of tasks and ensuring code quality by reviewing
-* Managing master codebase branch for final deliveries and CI/CD support
+	My Responsibilities:
+	* Complete understanding of existing features and their flows involving technical grooming meetings with senior architects and stakeholders
+	* Deciding the course of architecture flow to be undertaken for refactoring
+	* Providing estimates for feature refactoring
+	* Leading a team of technical members in the refactoring of these features and giving development assistance
+	* Ensure agile processes were followed among feature teams
+	* Optimal delivery of tasks and ensuring code quality by reviewing
+	* Managing master codebase branch for final deliveries and CI/CD support
 	
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_1.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_2.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_3.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AC_4.png" width="200"><br>
 <img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_1.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_2.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_3.png" width="200"><img src="https://github.com/sush562/sush562/blob/main/Images/MyMarque/AP_4.png" width="200"><br>
