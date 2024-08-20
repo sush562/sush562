@@ -2,7 +2,7 @@
 
 Dear Recruiter, I am pleased to share the list of projects in mobile development that I have been part of, throughout my career.
 
-[Go to Personal Projects](#Personal)
+[Go to Personal Projects](#personal)
 
 ## Capgemini Ltd
 
