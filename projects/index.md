@@ -2,6 +2,8 @@
 
 Dear Recruiter, I am pleased to share the list of projects in mobile development that I have been part of, throughout my career.
 
+[Go to Personal Projects](#Personal)
+
 ## Capgemini Ltd
 
 1. **[MyMarque](https://play.google.com/store/apps/details?id=com.psa.mym.mycitroen)** (Android, Client: Stellantis, France)
