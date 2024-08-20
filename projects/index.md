@@ -147,8 +147,21 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 
 1. **[PetrolIn](https://play.google.com/store/apps/details?id=com.flutter.fuel.petrolin)** (Flutter)
 
-	This is a personal project I did to showcase my skills in flutter. This is a fuel entry app where a user can enter his fuel entry every time he refuels his vehicle. This helps in keeping a record of all refueling events. This is a completely offline and lightweight app. Please feel free to try it and add reviews. I will keep updating the app with new features, thus growing my flutter skills.
+	This is a personal project I did to showcase my skills in flutter. This is a fuel entry app where a user can enter his fuel entry every time he refuels his vehicle. This helps in keeping a record of all refueling events.
 
-2. **[Cusine Central](https://github.com/sush562/App/tree/master/Cuisine_Central)** (React Native)
+A new feature was added that displays weather details of the user's location when the user opens the application.
+
+This is a completely offline and lightweight app. Please feel free to try it and add reviews. I will keep updating the app with new features, thus growing my flutter skills.
+
+Please visit [Petrolin Project](https://github.com/sush562/petrolin) to view the code structure.
+
+	**App Highlights:**
+	* Clean Architecture with Riverpod for advanced state management
+ 	* Sqflite for DB operations
+ 	* Http library for handling API calls
+  	* Location library for handling user location, GPS, and permissions
+   	* Envied library for securing Api Key.
+
+3. **[Cusine Central](https://github.com/sush562/App/tree/master/Cuisine_Central)** (React Native)
 
 	This is my private POC completely designed in React Native for skill demonstration. It uses Zomato API to fetch list of popular restaurants. User can view the details of these restaurants, their ratings, address, cost, timings, etc.
