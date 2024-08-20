@@ -155,12 +155,12 @@ This is a completely offline and lightweight app. Please feel free to try it and
 
 Please visit [Petrolin Project](https://github.com/sush562/petrolin) to view the code structure.
 
-	**App Highlights:**
-	* Clean Architecture with Riverpod for advanced state management
- 	* Sqflite for DB operations
- 	* Http library for handling API calls
-  	* Location library for handling user location, GPS, and permissions
-   	* Envied library for securing Api Key.
+**App Highlights:**
+* Clean Architecture with Riverpod for advanced state management
+* Sqflite for DB operations
+* Http library for handling API calls
+* Location library for handling user location, GPS, and permissions
+* Envied library for securing Api Key.
 
 3. **[Cusine Central](https://github.com/sush562/App/tree/master/Cuisine_Central)** (React Native)
 
