@@ -149,18 +149,18 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 
 	This is a personal project I did to showcase my skills in flutter. This is a fuel entry app where a user can enter his fuel entry every time he refuels his vehicle. This helps in keeping a record of all refueling events.
 
-A new feature was added that displays weather details of the user's location when the user opens the application.
+	A new feature was added that displays weather details of the user's location when the user opens the application.
 
-This is a completely offline and lightweight app. Please feel free to try it and add reviews. I will keep updating the app with new features, thus growing my flutter skills.
+	This is a completely offline and lightweight app. Please feel free to try it and add reviews. I will keep updating the app with new features, thus growing my flutter skills.
 
-Please visit [Petrolin Project](https://github.com/sush562/petrolin) to view the code structure.
+	Please visit [Petrolin Project](https://github.com/sush562/petrolin) to view the code structure.
 
-**App Highlights:**
-* Clean Architecture with Riverpod for advanced state management
-* Sqflite for DB operations
-* Http library for handling API calls
-* Location library for handling user location, GPS, and permissions
-* Envied library for securing Api Key.
+	**App Highlights:**
+	* Clean Architecture with Riverpod for advanced state management
+	* Sqflite for DB operations
+	* Http library for handling API calls
+	* Location library for handling user location, GPS, and permissions
+	* Envied library for securing Api Key.
 
 3. **[Cusine Central](https://github.com/sush562/App/tree/master/Cuisine_Central)** (React Native)
 
