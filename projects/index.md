@@ -126,11 +126,11 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 
 3. **[MetroPcs](www.metropcs.com)** (Web, Client: T-Mobile, USA)
 
- 	This project involved redesigning a client website in desktop format using web technology and tools like Adobe CQ5 for content design and management. I was involved in re-developing existing web pages using adobe CQ5 and web technologies. I also took part in understanding the requirements of each feature and assessing how much time and effort it will take.
+	This project involved redesigning a client website in desktop format using web technology and tools like Adobe CQ5 for content design and management. I was involved in re-developing existing web pages using adobe CQ5 and web technologies. I also took part in understanding the requirements of each feature and assessing how much time and effort it will take.
 
 	**Achievements:**
 	* Developed several features for the new desktop website of the client
- 	* Helped develop several reusable web components that reduced overall development time 
+	* Helped develop several reusable web components that reduced overall development time 
 
 4. **[T-Mobile](https://www.t-mobile.com/)** (Web, Client: T-Mobile, USA)
 
