@@ -27,10 +27,10 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	**Achievements:**
 	* Increase of app performance by around 30% (faster load time and app responsiveness, battery and memory usage, and smaller build size)
 	* Designed and implemented scalable clean architecture
-	* Spearheaded adaptation of kotlin that led to a decrease in codebase size by up to 25%
+	* Spearheaded adaptation of Kotlin that led to a decrease in codebase size by up to 25%
 	* Better defect resolution rate and reduced crash rates by up to 20%
 	* Higher test coverage of business and repository layers
-	* Better app delivery rate to CI/CD and subsequently play store
+	* Better app delivery rate to CI/CD and subsequently Play Store
  	* Awarded for my contribution to app delivery
 	
 <img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/AC_1.png" width="200"><img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/AC_2.png" width="200"><img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/AC_3.png" width="200"><img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/AC_4.png" width="200"><br>
@@ -61,14 +61,14 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	I was the Senior Mobile Developer for this project. This was an internal client app for its sales team, to create orders and view order history for its customers. This app used SAP Mobile SDK for first time in our organization for performing CRUD operations seamlessly with the backend SAP system.
 
 	**My Responsibilities:**
-	* Leading Android team for design, development and delivery of app
+	* Leading Android team for design, development, and delivery of app
 	* Deciding upon the design pattern for the app
 	* Providing estimates regarding the development and delivery of features
 	* Ensuring timely delivery of tasks
 	
 	**Achievements:**
-	* Successful delivery of app to client and fast deployment which helped in increase in business flow of client as they were able to capture market requirements faster
- 	* Implemented SAP Mobile SDK in application and created guidance documentation for others to understand
+	* Successful delivery of the app to clients and fast deployment which helped increase the business flow of clients as they were able to capture market requirements faster
+ 	* Implemented SAP Mobile SDK in the application and created guidance documentation for others to understand
 	
 	
 5. **WGK** (Android, Client: Wit Gele Kruis Hospital, Belgium)
@@ -76,7 +76,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	I was the Senior Mobile Developer for this project. This was an internal hospital app of client for their nurses to visit patients at their homes and keep track of medical records. This was a re-factoring project as it involved a completely new re-implementation of the existing app into the native Android format. It was also specific for tablets only.
 
 	**My Responsibilities:**
-	* Refactoring of entire app from Silverlight to native Android
+	* Refactoring of the entire app from Silverlight to native Android
 	* Understanding the technical requirements and flow
 	* Providing estimates regarding the development and delivery of features
 	* Ensuring timely delivery of tasks
@@ -93,18 +93,18 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	* Deputation onsite to directly interact with stakeholders of client and backend teams
 	* Understanding the feature requirements and their development
 	* Providing estimates regarding the development and delivery of features
-	* Ensuring timely delivery of tasks
- 	* Fast and ontime resolution of issues in market 
+	* Ensuring timely delivery of task
+	* Fast and on-time resolution of issues in the market 
 	
 	**Achievements:**
 	* Developed several features that aided in the launch process of client service (JIO)
 	* Awarded for my contribution to app delivery
- 	* Worked directly on production issues and gave best and fast resolutions
-  	* Created technical documentation about the app 
+	* Worked directly on production issues and gave the best and fastest resolutions
+ 	* Created technical documentation about the app 
 	
 9. **Jio Newspaper** (Android, Client: Reliance Jio)
 
-	I was the Senior Mobile Developer for this project. The app was a prototype designed for the customers of the client that enabled them to read newspapers of major publishers on mobile app by downloading those newspapers and displaying them in a readable format.
+	I was the Senior Mobile Developer for this project. The app was a prototype designed for the customers of the client that enabled them to read newspapers of major publishers on a mobile app by downloading those newspapers and displaying them in a readable format.
 	
 	I was part of the development team to create the app from scratch. I was responsible for understanding the requirements and implementing the display page of the list of newspapers.
 	
@@ -120,13 +120,13 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
  	* Defect resolutions and support
 	
 	**Achievements:**
-	* Fast learning in native android development
+	* Fast learning in native Android development
  	* My achievements in delivery soon made me the Senior developer of the app
   	* Awarded for my contribution to app delivery
 
 3. **[MetroPcs](www.metropcs.com)** (Web, Client: T-Mobile, USA)
 
-	This project involved redesigning a client website in desktop format using web technology and tools like Adobe CQ5 for content design and management. I was involved in re-developing existing web pages using adobe CQ5 and web technologies. I also took part in understanding the requirements of each feature and assessing how much time and effort it will take.
+	This project involved redesigning a client website in the desktop format using web technology and tools like Adobe CQ5 for content design and management. I was involved in re-developing existing web pages using adobe CQ5 and web technologies. I also took part in understanding the requirements of each feature and assessing how much time and effort it will take.
 
 	**Achievements:**
 	* Developed several features for the new desktop website of the client
@@ -158,7 +158,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	**App Highlights:**
 	* Clean Architecture with Riverpod for advanced state management
 	* Sqflite for DB operations
-	* Http library for handling API calls
+	* HTTP library for handling API calls
 	* Location library for handling user location, GPS, and permissions
 	* Envied library for securing Api Key.
 
