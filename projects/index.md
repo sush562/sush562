@@ -33,9 +33,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	* Better app delivery rate to CI/CD and subsequently Play Store.
  	* Awarded for my contribution to app delivery.
 	
-<img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/AC_1.png" width="200"><img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/AC_2.png" width="200"><img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/AC_3.png" width="200"><img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/AC_4.png" width="200"><br>
-<img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/AP_1.png" width="200"><img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/AP_2.png" width="200"><img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/AP_3.png" width="200"><img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/AP_4.png" width="200"><br>
-<img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/OP_1.png" width="200"><img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/OP_2.png" width="200"><img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/OP_3.png" width="200"><img src="https://raw.githubusercontent.com/sush562/sush562/main/Images/MyMarque/OP_4.png" width="200">
+	[Link for images](psa_images.md)
 
 	
 2. **[McDonalds](https://play.google.com/store/apps/details?id=com.mcdonalds.app.uk)** (Android, Client: McDonald's UK)
