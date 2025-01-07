@@ -56,14 +56,12 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	[Link for images](psa_images.md)
 
 	
-3. **[McDonalds](https://play.google.com/store/apps/details?id=com.mcdonalds.app.uk)** (Android, Client: McDonald's UK)
+3. **[McDonalds](https://play.google.com/store/apps/details?id=com.mcdonalds.app.uk)** (React Native, Client: McDonald's UK)
 
-	This is the global app of McDonalds to cater to their customers to place their food orders for delivery. It is used by millions of users daily on a Global basis. I was involved with the UK version of the app as a mobile lead and senior developer.
+	This is the global app of McDonalds to cater to their customers to place their food orders for delivery. It is used by millions of users daily on a Global basis. I was involved with the UK version of the app as a senior developer.
 	
 	**My Responsibilities:**
-	* Understand new feature requirements and guide team members in implementation and delivery.
-	* Providing estimates regarding the development and delivery of features.
-	* Implementing UK-specific UI/UX and configurations.
+	* Understanding and implementing features in the app.
 	* Creating documentation related to the features developed.
 	* Ensure agile processes are followed among feature teams.
 	* Ensuring timely delivery of tasks and code quality by reviewing.
