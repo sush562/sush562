@@ -6,24 +6,19 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 
 ## Capgemini Ltd
 
-1. **[Universal Orlando Resort](https://play.google.com/store/apps/details?id=com.universalstudios.orlandoresort&hl=en)** (Flutter, Client: Universal Studios)
+1. **Royal Caribbean Challenge App** (Android/React Native, Client: Royal Caribbean)
 
-	I was the offshore mobile tech lead for this project. This was a theme park application of client to assist their resort customers with various entertainment features and purchase or subscribe their services/products. 
-
-	I led in the architecture design and development of features in the app. Also guided team members in the implemetation of features and defect resolution.
+	This was a challenge round application of client to provide a working POC withen 6 weeks. I was the lead developer for this and led in the architecture design and development of features in the app. 
 	
 	**My Responsibilities:**
 	* Understand new feature requirements and guide team members in implementation and delivery.
 	* Assist in the architecture and design of application.
-	* Providing estimates regarding the development and delivery of features.
-	* Creating HLD documentation related to the features developed.
 	* Ensure agile processes are followed among feature teams.
 	* Ensuring timely delivery of tasks and code quality by reviewing.
 
 	**Achievements:**
-	* Successful deliveries of several features.
-	* Increased performance of application with robust and scalable design.
-	* Better defect resolution rate and reduced crash rates.
+	* Successful delivery of POC application on time.
+	* The POC won the first prize among several competitor companies with reward of $15,000.
 
 
 2. **[MyMarque](https://play.google.com/store/apps/details?id=com.psa.mym.mycitroen)** (Android, Client: Stellantis, France)
