@@ -34,32 +34,13 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
  	* Awarded for my contribution to app delivery.
 	
 	[Link for images](psa_images.md)
-	
-2. **[Universal Orlando Resort](https://play.google.com/store/apps/details?id=com.universalstudios.orlandoresort&hl=en)** (Flutter, Client: Universal Studios)
 
-	I was the offshore mobile tech lead for this project. This was a theme park application of client to assist their resort customers with various entertainment features and purchase or subscribe their services/products. 
+2. **Royal Caribbean Challenge App** (Android/React Native, Client: Royal Caribbean)
 
-	I led in the architecture design and development of features in the app. Also guided team members in the implemetation of features and defect resolution.
+	This was a challenge round application of client to provide a working POC withen 6 weeks. I was the lead developer for this and led in the architecture design and development of features in the app. 
 	
 	**My Responsibilities:**
 	* Understand new feature requirements and guide team members in implementation and delivery.
-	* Assist in the architecture and design of application.
-	* Providing estimates regarding the development and delivery of features.
-	* Creating HLD documentation related to the features developed.
-	* Ensure agile processes are followed among feature teams.
-	* Ensuring timely delivery of tasks and code quality by reviewing.
-
-	**Achievements:**
-	* Successful deliveries of several features.
-	* Increased performance of application with robust and scalable design.
-	* Better defect resolution rate and reduced crash rates.	
-
-3. **Royal Caribbean Challenge App** (Android/React Native, Client: Royal Caribbean)
-
-	This was a challenge round application of client to provide a working POC withen 6 weeks. I was the mobile tech lead for this and led in the architecture design and development of features in the app. 
-	
-	**My Responsibilities:**
-	* Understand feature requirements and guide team members in implementation and delivery.
 	* Assist in the architecture and design of application.
 	* Ensure agile processes are followed among feature teams.
 	* Ensuring timely delivery of tasks and code quality by reviewing.
@@ -68,7 +49,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	* Successful delivery of POC application on time.
 	* The POC won the first prize among several competitor companies with reward of $15,000.
 	
-4. **[McDonalds](https://play.google.com/store/apps/details?id=com.mcdonalds.app.uk)** (React Native, Client: McDonald's UK)
+3. **[McDonalds](https://play.google.com/store/apps/details?id=com.mcdonalds.app.uk)** (Android, Client: McDonald's UK)
 
 	This is the global app of McDonalds to cater to their customers to place their food orders for delivery. It is used by millions of users daily on a Global basis. I was involved with the UK version of the app as a senior developer.
 	
@@ -84,7 +65,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	* Improved app performance.
 	* Implementation of MVVM design pattern across features.
 	
-5. **Agill** (Android, Client: Cargill, Brazil)
+4. **Agill** (Android, Client: Cargill, Brazil)
 
 	I was the Senior Mobile Developer for this project. This was an internal client app for its sales team, to create orders and view order history for its customers. This app used SAP Mobile SDK for first time in our organization for performing CRUD operations seamlessly with the backend SAP system.
 
@@ -99,7 +80,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
  	* Implemented SAP Mobile SDK in the application and created guidance documentation for others to understand.
 	
 	
-6. **WGK** (Android, Client: Wit Gele Kruis Hospital, Belgium)
+5. **WGK** (Android, Client: Wit Gele Kruis Hospital, Belgium)
 
 	I was the Senior Mobile Developer for this project. This was an internal hospital app of client for their nurses to visit patients at their homes and keep track of medical records. This was a re-factoring project as it involved a completely new re-implementation of the existing app into the native Android format. It was also specific for tablets only.
 
@@ -113,7 +94,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	* The entire app was refactored which led to a great increase in performance and manageability of code.
  	* Worked on complex data download and ensured proper asynchronous procedures such as multithreading and RxJava.
 	
-7. **mAssist** (Android, Client: Reliance Jio)
+6. **mAssist** (Android, Client: Reliance Jio)
 
 	I was the Senior Mobile Developer for this project. This was an internal client app for its agents, to assist their customers in their account management, issues and orders. This greatly enhanced the launch process of the product (JIO services) in the Indian market for the client.
 
