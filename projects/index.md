@@ -27,6 +27,8 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
   	* Various successful deliveries with nearly zero critical issues reported on production
  	* Helped improve the agile processes that increased the overall delivery performance of team members.
 
+	[Link for images](smart_images.md)
+
 2. **[MyMarque](https://play.google.com/store/apps/details?id=com.psa.mym.mycitroen)** (Android, Client: Stellantis, France)
 
 	I was the offshore mobile tech lead for this project. This is a global app of the client to assist their customers in interacting effectively with their cars (Brands: Citreon, Peugeot, Opel, DS). The app has numerous features such as indicating fuel/electric levels, trip planner and history, maintenance details and schedule, location of vehicle, etc.
