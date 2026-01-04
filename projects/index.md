@@ -6,7 +6,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 
 ## Capgemini Ltd
 
-1. **[MyMarque](https://play.google.com/store/apps/details?id=com.smart.consumer.app)** (Android, Client: PLDT, Philippines)
+1. **[SMART](https://play.google.com/store/apps/details?id=com.smart.consumer.app)** (Android, Client: PLDT, Philippines)
 
 	I am currently the offshore mobile tech lead for this project. This is a telecom app of the client to assist their customers in performing various operations related to their mobile numbers such as voice/data recharge, monitoring call and data usage, purchase assistance of various offers by the company etc.
 
