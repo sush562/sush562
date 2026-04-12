@@ -6,7 +6,22 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 
 ## Capgemini Ltd
 
-1. **[SMART](https://play.google.com/store/apps/details?id=com.smart.consumer.app)** (Android, Client: PLDT, Philippines)
+1. **[EasyPlant Preservation](https://play.google.com/store/apps/details?id=com.technip.preservation&hl=en_IN)** (Flutter, Client: Technip, France)
+
+	I am currently the offshore mobile tech lead for this project. This is an oil and energy app for the client to assist them in the maintenance and preservation of equipment needed for oil drilling and supply.
+
+	I act as a tech lead where my job is the transformation of an existing Android app to Flutter.
+	
+	**My Responsibilities:**
+	* Complete understanding of required features involving grooming sessions with senior architects and stakeholders.
+ 	* Conversion of the app into Flutter, feature-wise.	
+	* Help reshape the architecture and delivery of the app for robustness and performance.
+	* Providing estimates for feature development and delivery.
+	* Ensure agile processes are followed among feature teams.
+	* Optimal delivery of tasks and ensuring code quality by reviewing.
+	* Optimization of git processes for better code management and faster delivery turnarounds.
+
+2. **[SMART](https://play.google.com/store/apps/details?id=com.smart.consumer.app)** (Android, Client: PLDT, Philippines)
 
 	I am currently the offshore mobile tech lead for this project. This is a telecom app of the client to assist their customers in performing various operations related to their mobile numbers such as voice/data recharge, monitoring call and data usage, purchase assistance of various offers by the company etc.
 
@@ -29,7 +44,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 
 	[Link for images](smart_images.md)
 
-2. **[MyMarque](https://play.google.com/store/apps/details?id=com.psa.mym.mycitroen)** (Android, Client: Stellantis, France)
+3. **[MyMarque](https://play.google.com/store/apps/details?id=com.psa.mym.mycitroen)** (Android, Client: Stellantis, France)
 
 	I was the offshore mobile tech lead for this project. This is a global app of the client to assist their customers in interacting effectively with their cars (Brands: Citreon, Peugeot, Opel, DS). The app has numerous features such as indicating fuel/electric levels, trip planner and history, maintenance details and schedule, location of vehicle, etc.
 
@@ -58,7 +73,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	
 	[Link for images](psa_images.md)
 	
-3. **[Universal Orlando Resort](https://play.google.com/store/apps/details?id=com.universalstudios.orlandoresort&hl=en)** (Flutter, Client: Universal Studios)
+4. **[Universal Orlando Resort](https://play.google.com/store/apps/details?id=com.universalstudios.orlandoresort&hl=en)** (Flutter, Client: Universal Studios)
 
 	I was the offshore mobile tech lead for this project. This was a theme park application of client to assist their resort customers with various entertainment features and purchase or subscribe their services/products. 
 
@@ -77,7 +92,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	* Increased performance of application with robust and scalable design.
 	* Better defect resolution rate and reduced crash rates.	
 
-4. **Royal Caribbean Challenge App** (Android, Client: Royal Caribbean)
+5. **Royal Caribbean Challenge App** (Android, Client: Royal Caribbean)
 
 	This was a challenge round application of client to provide a working POC withen 6 weeks. I was the mobile tech lead for this and led in the architecture design and development of features in the app. 
 	
@@ -91,7 +106,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	* Successful delivery of POC application on time.
 	* The POC won the first prize among several competitor companies with reward of $15,000.
 	
-5. **[McDonalds](https://play.google.com/store/apps/details?id=com.mcdonalds.app.uk)** (Android, Client: McDonald's UK)
+6. **[McDonalds](https://play.google.com/store/apps/details?id=com.mcdonalds.app.uk)** (Android, Client: McDonald's UK)
 
 	This is the global app of McDonalds to cater to their customers to place their food orders for delivery. It is used by millions of users daily on a Global basis. I was involved with the UK version of the app as a senior developer.
 	
@@ -107,7 +122,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	* Improved app performance.
 	* Implementation of MVVM design pattern across features.
 	
-6. **Agill** (Android, Client: Cargill, Brazil)
+7. **Agill** (Android, Client: Cargill, Brazil)
 
 	I was the Senior Mobile Developer for this project. This was an internal client app for its sales team, to create orders and view order history for its customers. This app used SAP Mobile SDK for first time in our organization for performing CRUD operations seamlessly with the backend SAP system.
 
@@ -122,7 +137,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
  	* Implemented SAP Mobile SDK in the application and created guidance documentation for others to understand.
 	
 	
-7. **WGK** (Android, Client: Wit Gele Kruis Hospital, Belgium)
+8. **WGK** (Android, Client: Wit Gele Kruis Hospital, Belgium)
 
 	I was the Senior Mobile Developer for this project. This was an internal hospital app of client for their nurses to visit patients at their homes and keep track of medical records. This was a re-factoring project as it involved a completely new re-implementation of the existing app into the native Android format. It was also specific for tablets only.
 
@@ -136,7 +151,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	* The entire app was refactored which led to a great increase in performance and manageability of code.
  	* Worked on complex data download and ensured proper asynchronous procedures such as multithreading and RxJava.
 	
-8. **mAssist** (Android, Client: Reliance Jio)
+9. **mAssist** (Android, Client: Reliance Jio)
 
 	I was the Senior Mobile Developer for this project. This was an internal client app for its agents, to assist their customers in their account management, issues and orders. This greatly enhanced the launch process of the product (JIO services) in the Indian market for the client.
 
@@ -153,7 +168,7 @@ Dear Recruiter, I am pleased to share the list of projects in mobile development
 	* Worked directly on production issues and gave the best and fastest resolutions.
  	* Created technical documentation about the app.
 	
-9. **Jio Newspaper** (Android, Client: Reliance Jio)
+10. **Jio Newspaper** (Android, Client: Reliance Jio)
 
 	I was the Senior Mobile Developer for this project. The app was a prototype designed for the customers of the client that enabled them to read newspapers of major publishers on a mobile app by downloading those newspapers and displaying them in a readable format.
 	
